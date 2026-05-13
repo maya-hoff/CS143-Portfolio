@@ -20,3 +20,10 @@
 
 **F7_3_ThinkingQuantization (5xp)**
 - Performed SFT fine-tuning on another dataset
+
+## Creative synthesis
+**F_1_1**
+- Guessing game where the user guesses the sentiment of a certain sentence
+
+**F5_2**
+- Guessing game where the user guesses the similarity between common English words
